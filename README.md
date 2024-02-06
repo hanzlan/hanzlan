@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🤓 Servus, my name is Andi
+- 🔭 I’m a PhD candidate at TU Munich working on terrestrial laser scanning and microclimate in forests.
+- ⚡ Travel, code, language, food, tree enthusiast 
+- 📫 How to reach me: andreas.hanzl@tum.de
 
 <!--
 **hanzlan/hanzlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
